@@ -1,0 +1,31 @@
+a.vinculo1:link {
+  color: blueviolet;
+}
+
+a.vinculo1:visited {
+  color: greenyellow;
+}
+
+a.vinculo1:hover {
+  color: darkgoldenrod;
+}
+
+a.vinculo1:active {
+  color: yellowgreen;
+}
+
+a.vinculo2:link {
+  color: blueviolet;
+}
+
+a.vinculo2:visited {
+  color: greenyellow;
+}
+
+a.vinculo2:hover {
+  color: darkgoldenrod;
+}
+
+a.vinculo2:active {
+  color: yellowgreen;
+}

@@ -1,0 +1,20 @@
+.titulo {
+  color: palevioletred;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.subtitulos {
+  color: rosybrown;
+  font-weight: bolder;
+}
+
+.parrafos {
+  color: royalblue;
+  font-style: italic;
+}
+
+.barra {
+  background-color: cadetblue;
+  height: 10px;
+}

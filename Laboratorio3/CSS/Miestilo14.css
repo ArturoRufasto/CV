@@ -1,0 +1,39 @@
+body {
+  background-color: chartreuse;
+}
+
+.contenedor {
+  background-color: whitesmoke;
+}
+
+ul {
+  background-color: cornflowerblue;
+  padding: 15px;
+}
+ul li {
+  background-color: cadetblue;
+  color: white;
+  margin: 3px;
+}
+
+ul li ul {
+  background-color: cyan;
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+ul li ul li {
+  background-color: darkmagenta;
+  margin: 3px;
+  list-style-type: disc;
+}
+
+ul li ul li ul {
+  background-color: darkturquoise;
+  padding: 5px;
+  list-style-type: none;
+}
+ul li ul li ul li {
+  background-color: grey;
+  margin: 3px;
+}

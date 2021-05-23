@@ -1,0 +1,34 @@
+.Inicio {
+  background-color: rgba(58, 113, 184, 0.932);
+}
+.second {
+  background-color: rgb(235, 60, 241);
+}
+.thirth {
+  background-color: chartreuse;
+}
+.fourty {
+  background-color: chocolate;
+}
+.pie {
+  background-color: cornflowerblue;
+}
+body {
+  background-color: darkgray;
+}
+
+.parrafoimagen {
+  background-image: url("/Laboratorio3/IMG/cheems.jpg");
+}
+
+.parrafotransparencia {
+  background-color: rgb(221, 118, 187);
+  opacity: 0.75;
+  color: black;
+}
+
+.parrafoimagen {
+  width: 1800px;
+  margin: auto;
+  border: 5px solid blue;
+}

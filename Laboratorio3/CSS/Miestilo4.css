@@ -1,0 +1,63 @@
+/* Esto es un comentario */
+
+.contenedor {
+  background-color: blue;
+}
+.cabecera {
+  background-color: blueviolet;
+}
+.menu {
+  background-color: chartreuse;
+}
+.contenido {
+  background-color: chocolate;
+}
+.pie {
+  background-color: cornflowerblue;
+}
+body {
+  background-color: darkgray;
+}
+
+.parrafoimagen {
+  background-image: url("/Laboratorio3/IMG/Oni.jpg");
+}
+
+.parrafotransparencia {
+  background-color: black;
+  opacity: 0.75;
+  color: white;
+}
+
+.parrafoimagenrepetida {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+}
+
+.parrafoimagennorepetida {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+  background-repeat: no-repeat;
+}
+
+.parafoimagentamaño {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+  background-size: 30px;
+}
+
+.parrafoimagenrepetirhorizontal {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+  background-repeat: repeat-x;
+  background-size: 30;
+}
+
+.parrafoimagenrepetirvertical {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+  background-repeat: repeat-y;
+  background-size: 30;
+}
+
+.parrafoimagencentrar {
+  background-image: url("/Laboratorio3/IMG/html5ycss3.png");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
